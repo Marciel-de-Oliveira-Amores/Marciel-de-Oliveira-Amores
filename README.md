@@ -1,23 +1,49 @@
-# Olá, eu sou [Marciel]! 👋
+# Olá, eu sou [ Marciel ]! 👋
 
 Sou um desenvolvedor apaixonado com experiência em desenvolvimento **low-code** usando **Microsoft Power Apps** e **Power Automate**. Aqui está um pouco sobre mim:
 
 ## Sobre Mim
-- 🌱 Atualmente estou aprendendo Python 
-- 💡 Tenho interesse em desenvolvimento web, ciência de dados e aprendizado de máquina.
-- 🎮 Nas horas vagas, gosto de jogar videogames e explorar novas trilhas de mountain bike.
+- 🌱 Atualmente estou aprendendo Python, Atlassian, RPA UiPath
+- 💡 Tenho interesse em desenvolvimento Low Code.
+- 🎮 Nas horas vagas, gosto de caminhar e assistir um bom filme.
 
 ## Projetos Destacados
-### Nome do Projeto 1
-Breve descrição do projeto. Este projeto utiliza as seguintes tecnologias: **Power Apps**, **Power Automate**, [Tecnologia 1], [Tecnologia 2].
+### Trailer Deva's
+Breve descrição do projeto
+Crie um app para uma lanchonete, visando aumentar o tempo de entrega e satisfação do cliente.
+nele foi utilizado **Power Apps**.
 
-### Nome do Projeto 2
-Outro projeto incrível que desenvolvi. Ele resolve o problema X usando Y e Z.
+### Salão Estrela da manhã
+este app, fiz para otimizar o tempo da proprietária.
+com o **Power Apps**  criei algumas paginas: tela principal, menu de preços, localização, agendamento.
+a automação foi por cocnta do  **Automate**, nele sempre que o cliente marcava um horário,era disparado uma mensagem no whatsapp ou e-mail do salão, se a data estivesse vaga o salão dava o **OK** e voltava uma mensagem no whatsapp do cliente confirmando o agendamento. 
+
+#### Aplicativos de Criação Pessoal 
+### Aplicativo de Reembolso
+Este app é criação pessoal
+
+### Calculadora de Gorjeta
+Este app é criação pessoal
+
+### controle de Estoque
+Este app é criação pessoal
+
+### Caragua Connect 
+Este app é crição pessoal e está **em produção**.
+
+### Gestão de Tarefas
+Este app é criação pessoal
+
+### Avaliação de Provas
+Este app é uma criação pessoal
+
+### Aplicativo  de Sorteio
+Este app é criação pessoal
 
 ## Linguagens e Ferramentas
 - **Power Apps** 🚀
 - **Power Automate** ⚙️
-- SQL 📊
+- **SQL** 📊
 
 ## Contato
 - LinkedIn:(https://www.linkedin.com/feed/)
