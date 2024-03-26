@@ -18,14 +18,14 @@ este app, fiz para otimizar o tempo da proprietária.
 com o **Power Apps**  criei algumas paginas: tela principal, menu de preços, localização, agendamento.
 a automação foi por cocnta do  **Automate**, nele sempre que o cliente marcava um horário,era disparado uma mensagem no whatsapp ou e-mail do salão, se a data estivesse vaga o salão dava o **OK** e voltava uma mensagem no whatsapp do cliente confirmando o agendamento. 
 
-#### Aplicativos de Criação Pessoal 
+### Aplicativos de Criação Pessoal 
 ### Aplicativo de Reembolso
 Este app é criação pessoal
 
 ### Calculadora de Gorjeta
 Este app é criação pessoal
 
-### controle de Estoque
+### Controle de Estoque
 Este app é criação pessoal
 
 ### Caragua Connect 
