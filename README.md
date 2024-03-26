@@ -9,16 +9,15 @@ Sou um desenvolvedor apaixonado com experiência em desenvolvimento **low-code**
 
 ## Projetos Destacados
 ### Trailer Deva's
-Breve descrição do projeto
 Crie um app para uma lanchonete, visando aumentar o tempo de entrega e satisfação do cliente.
-nele foi utilizado **Power Apps**.
+nele foi utilizado **Power Apps** com ele fiz a criação de Tela principal, Menu(Cardápio), conexão com WhatsApp, localização, página de satisfação do cliente **SUA OPNIÃO E MUITO IMPORTANTE!!**
 
 ### Salão Estrela da manhã
 este app, fiz para otimizar o tempo da proprietária.
 com o **Power Apps**  criei algumas paginas: tela principal, menu de preços, localização, agendamento.
 a automação foi por cocnta do  **Automate**, nele sempre que o cliente marcava um horário,era disparado uma mensagem no whatsapp ou e-mail do salão, se a data estivesse vaga o salão dava o **OK** e voltava uma mensagem no whatsapp do cliente confirmando o agendamento. 
 
-### Aplicativos de Criação Pessoal 
+### Aplicativos de Criação Pessoal ###
 ### Aplicativo de Reembolso
 Este app é criação pessoal
 
