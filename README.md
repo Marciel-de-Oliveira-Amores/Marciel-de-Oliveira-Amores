@@ -3,7 +3,7 @@
 Sou um desenvolvedor apaixonado com experiência em desenvolvimento **low-code** usando **Microsoft Power Apps** e **Power Automate**. Aqui está um pouco sobre mim:
 
 ## Sobre Mim
-- 🌱 Atualmente estou aprendendo Python, Atlassian, RPA UiPath
+- 🌱 Atualmente estou aprendendo Python, Atlassian, RPA UiPath, Outsystems
 - 💡 Tenho interesse em desenvolvimento Low Code.
 - 🎮 Nas horas vagas, gosto de caminhar e assistir um bom filme.
 
