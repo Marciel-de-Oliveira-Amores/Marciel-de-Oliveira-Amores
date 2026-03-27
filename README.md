@@ -21,12 +21,6 @@ a automação foi por cocnta do  **Automate**, nele sempre que o cliente marcava
 ### Aplicativo de Reembolso
 Este app é criação pessoal
 
-### Calculadora de Gorjeta
-Este app é criação pessoal
-
-### Controle de Estoque
-Este app é criação pessoal
-
 ### Caragua Connect 
 Este app é crição pessoal e está **em produção**.
 
