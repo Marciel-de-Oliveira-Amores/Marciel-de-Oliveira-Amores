@@ -21,7 +21,7 @@ Vim de uma trajetória como **Eletricista Montador** e **Nivelador de Obra**, on
 
 *   🎓 **Acadêmico:** Cursando **Análise e Desenvolvimento de Sistemas** (conclusão em Jul/2026).
 *   💼 **Experiência Profissional:** Estagiário de TI na **Bridge & Co.**, atuando com suporte N1 e gestão de incidentes via **Freshservice** e **Freshdesk**.
-*   ⚡ **Projetos de Automação:** Desenvolvimento de soluções autorais com **Power Automate**, focadas em reduzir tarefas manuais e aumentar a eficiência.
+*   ⚡ **Projetos de Automação:** Desenvolvimento de soluções autorais com **Power Automate**, focadas em reduzir tarefas manuais e aumentar a eficiência[cite: 1].
 
 ---
 
@@ -40,7 +40,7 @@ Vim de uma trajetória como **Eletricista Montador** e **Nivelador de Obra**, on
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Marciel-de-Oliveira-Amores&theme=radical&no-frame=true&margin-w=15" alt="Troféus" />
   <br/>
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=200&section=header&text=Marciel%20Amores&fontSize=60" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marciel-de-Oliveira-Amores&theme=radical&hide_border=true&area=true" width="100%" />
 </div>
 
 <div align="center">
@@ -51,9 +51,9 @@ Vim de uma trajetória como **Eletricista Montador** e **Nivelador de Obra**, on
 
 ### 📂 Projetos Pessoais com Power Automate
 
-*   🌐 **ConnectFlow v2.3:** Aplicativo para gestão de OLTs em redes FTTH com fluxos de provisionamento.
-*   🍕 **Trailer Deva's:** Automação de pedidos via WhatsApp integrada ao Power Apps.
-*   📅 **Salão Estrela:** Sistema de agendamento com notificações automáticas disparadas via Power Automate.
+*   🌐 **ConnectFlow v2.3:** Aplicativo para gestão de OLTs em redes FTTH com fluxos de provisionamento[cite: 1].
+*   🍕 **Trailer Deva's:** Automação de pedidos via WhatsApp integrada ao Power Apps[cite: 1].
+*   📅 **Salão Estrela:** Sistema de agendamento com notificações automáticas disparadas via Power Automate[cite: 1].
 
 ---
 
